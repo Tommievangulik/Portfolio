@@ -1,3 +1,3 @@
 # Portfolio
 
-View my project (http://github.com/Tommievangulik/Portfolio)[online]
+View my project [online](http://github.com/Tommievangulik/Portfolio)
