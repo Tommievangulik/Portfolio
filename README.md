@@ -1,2 +1,3 @@
 # Portfolio
-http://github.com/Tommievangulik - automatic!
+
+View my project [http://github.com/Tommievangulik/Portfolio](online)
