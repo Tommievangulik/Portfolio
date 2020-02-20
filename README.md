@@ -1,2 +1,2 @@
 # Portfolio
-http://github.com - automatic!
+http://github.com/Tommievangulik/Portfolio - automatic!
